@@ -4,4 +4,6 @@ def call() {
  t.hello()
 }*/
 import static org.demo.testClass.hello as hi
-hi()
+def call(){
+ hi()
+}
