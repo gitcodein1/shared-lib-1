@@ -3,8 +3,7 @@ def call() {
  t = new testClass()
  t.hello()
 }*/
-
-def call(){
- import static org.demo.testClass.hello as hi
+import static org.demo.testClass.hello as hi
+def call(){ 
  hi()
 }
