@@ -1,5 +1,5 @@
 package org.new1
-class tools {
+class newTest {
     def hello() {
         println("Hello World")
     }
