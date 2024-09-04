@@ -1,5 +1,6 @@
 package org.demo;
 class testClass {
+        def script
         testClass(script) {
             this.script = script
         }
