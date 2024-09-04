@@ -5,5 +5,5 @@ def call() {
 }*/
 import static org.demo.testClass.hello as hi
 def call(){ 
- hi()
+ return hi()
 }
