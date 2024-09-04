@@ -1,6 +1,6 @@
 package org.demo
 class testClass {
-    def hello() {
+    static hello() {
         println("Hello World")
     }
 }
