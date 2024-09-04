@@ -1,4 +1,4 @@
-import src.org.demo.testClass
+import org.demo.testClass
 def call() { 
  t = new testClass()
  t.hello()
