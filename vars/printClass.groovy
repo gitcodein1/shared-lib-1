@@ -1,4 +1,5 @@
 import org.demo.testClass
- 
-t = new testClass()
-t.hello()
+def call() { 
+ t = new testClass()
+ t.hello()
+}
