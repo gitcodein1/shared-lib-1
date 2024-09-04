@@ -1,6 +1,6 @@
 package org.demo
-class tools {
-    def testClass() {
+class testClass {
+    def hello() {
         println("Hello World")
     }
 }
