@@ -5,6 +5,6 @@ def call() {
 }*/
 import static org.demo.testClass.hello as hi
 def call(){ 
- return hi()
  echo "CHECKED..."
+ return hi()
 }
