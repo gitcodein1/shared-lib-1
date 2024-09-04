@@ -1,6 +1,10 @@
 package org.demo;
 class testClass {
-    def hello() {
-        println("Hello World")
-    }
+        testClass(script) {
+            this.script = script
+        }
+    
+        void printClass() {
+        script.echo "using Groups shared library from TEST"
+        }  
 }
