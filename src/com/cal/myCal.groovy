@@ -1,5 +1,5 @@
 package com.cal;
-class mycal {
+class myCal {
     def add(a, b) {
         return a + b
     }
