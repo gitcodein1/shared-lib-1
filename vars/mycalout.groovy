@@ -1,6 +1,6 @@
 import com.cal.*;
-def call () {
+def call (a,b) {
   def calculator = new mycal()
-  def result = calculator.add(10, 1)
+  def result = calculator.add(a, b)
   echo "Sum: ${result}"
 }
